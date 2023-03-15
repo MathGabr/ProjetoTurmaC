@@ -3,5 +3,6 @@
 
 ## Experiência
 - vagabundo profissional
+- Aquaponia
 
 ---
